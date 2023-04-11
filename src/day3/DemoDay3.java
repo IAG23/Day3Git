@@ -16,4 +16,6 @@ public class DemoDay3 {
 	//This is changed #2 from another team member
 	
 	//Change #3
+	
+	String firstName = "John";
 }
